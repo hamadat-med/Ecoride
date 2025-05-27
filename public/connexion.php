@@ -66,5 +66,5 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     <p>Pas encore de compte ? <a href="inscription.php">Inscrivez-vous ici</a>.</p>
 </main>
-
+</body>
 <?php require_once('../src/includes/footer.php'); ?>
